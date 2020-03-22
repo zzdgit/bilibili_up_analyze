@@ -1,0 +1,4 @@
+pystan==2.18.1.0
+fbprophet
+jupyter
+requests
